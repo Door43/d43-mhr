@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mhr:home|Door43 (mhr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mhr|d43-mhr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mhr/archive/master.zip|d43-mhr.zip]]
+
+**Recent Changes**
+{{changes>ns = mhr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mhr|Ethnologue data]]
+
